@@ -1,0 +1,4 @@
+requests
+pigpio
+gpiozero
+w1thermsensor==2.0.0a2
